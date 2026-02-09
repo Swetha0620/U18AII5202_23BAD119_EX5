@@ -9,12 +9,6 @@
 
 ---
 
-## Objective
-
-To design an interactive analytical dashboard for monitoring key academic metrics.
-
----
-
 
 ## Project Overview
 
