@@ -64,7 +64,7 @@ The data is used to compute KPIs and generate visual insights for smart campus m
 - **Drill-Down Analysis:** Allows detailed analysis at department and subject levels  
 - **Interactive Views:** Real-time updates of KPIs and visuals  
 
-📎 *The Power BI dashboard file (.pbix) has been attached along with screenshots for reference and evaluation.*
+*The Power BI dashboard file (.pbix) has been attached for reference and evaluation.*
 
 ---
 
