@@ -2,7 +2,7 @@
 
 ---
 
-## Interactive Analytical Dashboard Design
+# Interactive Analytical Dashboard Design
 
 **Name:** Swetha P  
 **Roll Number:** 23BAD119  
